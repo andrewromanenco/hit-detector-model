@@ -18,6 +18,11 @@ This PyTorch-based CNN detects holes on boards or paper using a sliding window a
 
  🤗 [Model Card on Hugging Face](https://huggingface.co/andrewromanenco/hit-detector).
 
+ ## 🔗 Live Demo
+
+Try the model here: [Hit Detector Gradio Demo](https://huggingface.co/spaces/andrewromanenco/hit-detector-demo)
+
+
 
 ## 📥 Model Inputs & Outputs
  
