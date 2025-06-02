@@ -16,6 +16,9 @@ This PyTorch-based CNN detects holes on boards or paper using a sliding window a
 
 > Holes or defects must approximately fit within a 20×20 region to be accurately detected.
 
+ 🤗 [Model Card on Hugging Face](https://huggingface.co/andrewromanenco/hit-detector).
+
+
 ## 📥 Model Inputs & Outputs
  
 - Input: RGB or grayscale image (PIL.Image)
